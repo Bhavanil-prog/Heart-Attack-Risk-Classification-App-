@@ -1,0 +1,10 @@
+# Python dependencies for ML Project Deployment
+# All versions pinned with == for reproducibility (Requirement 5.1)
+
+streamlit==1.29.0
+scikit-learn==1.8.0
+pandas==2.2.3
+numpy==2.4.4
+tensorflow==2.18.0
+hypothesis==6.152.3
+pytest==9.0.2
